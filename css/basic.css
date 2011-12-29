@@ -3,15 +3,27 @@ body
 background-color: #fafbf3;
 font-family: "Calibri", Arial, Helvetica;
 color: black;
+margin: 0;
+padding: 0;
 }
 
 #main
 {
+margin-top: 50px;
 background-color: white;
 color: rgb(50,50,50);
 }
+
 #main .title
 {
 background-color: #d83c18;
 color: white;
+padding: 4px;
+font-size: 18px;
+padding-left: 20px;
+}
+
+#main .title em
+{
+font-size: 12px;
 }

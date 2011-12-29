@@ -47,9 +47,12 @@ font-size: 26px;
 {
 display: block;
 padding: 4px;
+color: #4591dc;
+text-decoration: none;
+font-size: 12px;
 }
 #projects a:hover
 {
-background-color: red;
+background-color: #d83c18;
 color: white;
 }

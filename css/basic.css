@@ -23,9 +23,33 @@ font-size: 18px;
 padding-left: 20px;
 }
 
-#main .title em
+#main .title a, #main .title a:active, #main .title a:visited, #main.title a:link
 {
 font-size: 12px;
 font-style: normal;
 padding-left: 10px;
+text-decoration: none;
+color: white;
+}
+
+#main .item
+{
+width: 300px;
+border: 1px solid #e8eadd;
+}
+
+#main .item .name
+{
+color: black;
+font-size: 26px;
+
+#main .item a, #main .item a:active, #main .item a:visited, #main .item a:link
+{
+display: block;
+padding: 4px;
+}
+#main .item a:hover
+{
+background-color: red;
+color: white;
 }

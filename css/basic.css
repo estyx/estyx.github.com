@@ -24,7 +24,7 @@ padding-left: 20px;
 
 #main .title a, #main .title a:active, #main .title a:visited, #main.title a:link
 {
-font-size: 12px;
+font-size: 14px;
 font-style: normal;
 padding-left: 10px;
 text-decoration: none;
@@ -42,6 +42,7 @@ border: 1px solid #e8eadd;
 {
 color: black;
 font-size: 26px;
+margin-bottom: 20px;
 }
 #projects a, #projects a:active, #projects a:visited, #projects a:link
 {

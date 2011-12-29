@@ -42,13 +42,13 @@ border: 1px solid #e8eadd;
 {
 color: black;
 font-size: 26px;
-
-#main .item a, #main .item a:active, #main .item a:visited, #main .item a:link
+}
+#projects a, #projects a:active, #projects a:visited, #projects a:link
 {
 display: block;
 padding: 4px;
 }
-#main .item a:hover
+#projects a:hover
 {
 background-color: red;
 color: white;

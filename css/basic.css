@@ -1,0 +1,17 @@
+body
+{
+background-color: #fafbf3;
+font-family: "Calibri", Arial, Helvetica;
+color: black;
+}
+
+#main
+{
+background-color: white;
+color: rgb(50,50,50);
+}
+#main .title
+{
+background-color: #d83c18;
+color: white;
+}

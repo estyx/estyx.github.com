@@ -26,4 +26,7 @@ padding-left: 20px;
 #main .title em
 {
 font-size: 12px;
+font-style: normal;
+color: rgb(230,230,230);
+padding-left: 10px;
 }
